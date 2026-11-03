@@ -4,7 +4,7 @@ title: Prym privacy policy
 
 # Prym privacy policy
 
-Effective date: 28 October 2026
+Effective date: 3 November 2026
 
 Prym is a workout tracker made by Vulkane. This policy explains what happens to your information when you use the Prym app for Android.
 
@@ -25,7 +25,7 @@ This data never leaves your phone unless you export a backup yourself or search 
 
 ## Backups
 
-Settings → Backup creates a file with your workouts, routines, custom exercises, exercise rest times and body weights, and opens your phone's share sheet. Where the file goes (a cloud drive, an email, another app) is your choice, and that service's own privacy policy then applies. Importing reads a backup file you pick and adds its records to Prym on your phone.
+Settings → Backup creates a file with your workouts, routines, custom exercises, exercise rest times and body weights, and saves it to a folder you choose on your phone or opens your phone's share sheet. Where the file goes (a folder on the phone, a cloud drive, an email, another app) is your choice, and that service's own privacy policy then applies. Importing reads a backup file you pick and adds its records to Prym on your phone. Export workouts (CSV) and Export body weight (CSV) work the same way, sharing a spreadsheet file of your workouts' sets or your body weights wherever you choose.
 
 ## Exercise videos
 
@@ -41,7 +41,7 @@ Prym checks Expo's update service (EAS Update) for new versions of the app when 
 
 ## Permissions
 
-- **Notifications** and **vibration:** to tell you when a rest is over, and to remind you to weigh in if you turn that reminder on. These notifications are created on your phone; nothing is sent from a server.
+- **Notifications** and **vibration:** to tell you when a rest is over, to show the workout you are recording while it is in progress, and to remind you to weigh in if you turn that reminder on. These notifications are created on your phone; nothing is sent from a server.
 - **Alarms and reminders (exact alarms):** so the rest-over notification arrives on time. Android asks you to allow this in its settings; Prym offers a shortcut there.
 - **Run at startup:** so a scheduled rest-over notification or weigh-in reminder survives the phone restarting.
 - **Internet:** only to check for and download app updates.
