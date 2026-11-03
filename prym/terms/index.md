@@ -4,7 +4,7 @@ title: Prym terms of use
 
 # Prym terms of use
 
-Effective date: SET-ON-PUBLISHING
+Effective date: 3 November 2026
 
 These terms apply when you use Prym, the workout tracker made by Vulkane ("we"), and when you subscribe to Prym Pro. By using Prym you agree to them. Your consumer rights under the law where you live are not affected by anything here.
 

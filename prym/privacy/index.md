@@ -4,7 +4,7 @@ title: Prym privacy policy
 
 # Prym privacy policy
 
-Effective date: SET-ON-PUBLISHING
+Effective date: 3 November 2026
 
 Prym is a workout tracker made by Vulkane. This policy explains what happens to your information when you use the Prym app for Android.
 
