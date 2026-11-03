@@ -60,6 +60,8 @@ Prym Pro's features, such as the planner, next-session suggestions, the muscle m
 
 You can delete any workout, routine, custom exercise or body weight entry in the app. Uninstalling Prym, or clearing its storage in Android's settings, deletes everything it stored on your phone. Backup files you exported are not affected; delete them where you saved them.
 
+Prym Pro purchases: to have your purchase history removed from RevenueCat, email vulkanedev@gmail.com from any address and say which Google account you bought with. We delete it within 30 days. Google keeps its own record of the purchase under Google's privacy policy.
+
 ## Health information
 
 Prym records training and body weight for your own use. It does not provide medical advice.
