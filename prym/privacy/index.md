@@ -18,7 +18,7 @@ Prym saves what you enter in a database on your phone:
 
 - workouts, with their exercises, sets and notes;
 - routines and custom exercises you create;
-- body weight entries and their notes;
+- body weight entries, body measurements (such as waist or arm) and their notes;
 - with Prym Pro, your weekly plan and planned workouts;
 - videos you add to sets, kept in Prym's own storage on your phone;
 - your settings, such as units, rest timer and theme.
@@ -27,7 +27,7 @@ This data never leaves your phone unless you export a backup yourself or search 
 
 ## Backups
 
-Settings → Backup creates a file with your workouts, routines, custom exercises, exercise rest times, body weights and, if you have made one, your plan and planned workouts, and saves it to a folder you choose on your phone or opens your phone's share sheet. Where the file goes (a folder on the phone, a cloud drive, an email, another app) is your choice, and that service's own privacy policy then applies. Importing reads a backup file you pick and adds its records to Prym on your phone. Export workouts (CSV) and Export body weight (CSV) work the same way, sharing a spreadsheet file of your workouts' sets or your body weights wherever you choose.
+Settings → Backup creates a file with your workouts, routines, custom exercises, exercise rest times, body weights, body measurements and, if you have made one, your plan and planned workouts, and saves it to a folder you choose on your phone or opens your phone's share sheet. Where the file goes (a folder on the phone, a cloud drive, an email, another app) is your choice, and that service's own privacy policy then applies. Importing reads a backup file you pick and adds its records to Prym on your phone. Export workouts (CSV) and Export body weight (CSV) work the same way, sharing a spreadsheet file of your workouts' sets or your body weights wherever you choose.
 
 ## Videos of your sets
 
