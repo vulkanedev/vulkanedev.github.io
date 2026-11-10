@@ -4,7 +4,7 @@ title: Prym privacy policy
 
 # Prym privacy policy
 
-Effective date: 9 November 2026
+Effective date: 10 November 2026
 
 Prym is a workout tracker made by Vulkane. This policy explains what happens to your information when you use the Prym app for Android.
 
@@ -21,17 +21,22 @@ Prym saves what you enter in a database on your phone:
 - body weight entries, body measurements (such as waist or arm) and their notes;
 - with Prym Pro, your weekly plan and planned workouts;
 - videos you add to sets, kept in Prym's own storage on your phone;
+- progress photos you take or choose, kept in Prym's own storage on your phone, and their notes;
 - your settings, such as units, rest timer and theme.
 
 This data never leaves your phone unless you export a backup yourself or search for videos of an exercise (see below). We cannot see it, and nobody else can through Prym.
 
 ## Backups
 
-Settings → Backup creates a file with your workouts, routines, custom exercises, exercise rest times, body weights, body measurements and, if you have made one, your plan and planned workouts, and saves it to a folder you choose on your phone or opens your phone's share sheet. Where the file goes (a folder on the phone, a cloud drive, an email, another app) is your choice, and that service's own privacy policy then applies. Importing reads a backup file you pick and adds its records to Prym on your phone. Export workouts (CSV) and Export body weight (CSV) work the same way, sharing a spreadsheet file of your workouts' sets or your body weights wherever you choose.
+Settings → Backup creates a file with your workouts, routines, custom exercises, exercise rest times, body weights, body measurements, the details of your set videos and progress photos (not the files) and, if you have made one, your plan and planned workouts, and saves it to a folder you choose on your phone or opens your phone's share sheet. Where the file goes (a folder on the phone, a cloud drive, an email, another app) is your choice, and that service's own privacy policy then applies. Importing reads a backup file you pick and adds its records to Prym on your phone. Export workouts (CSV) and Export body weight (CSV) work the same way, sharing a spreadsheet file of your workouts' sets or your body weights wherever you choose.
 
 ## Videos of your sets
 
 With Prym Pro you can add a video to a set: Prym opens your phone's camera app to record one, or the system photo picker to choose one, and keeps its own copy on your phone. Videos are never uploaded; they leave your phone only when you share one, or export them to a folder you choose (Settings → Videos), and that app's or service's privacy policy then applies. Backups list which sets have videos (their captions, lengths and sizes), not the videos themselves. Deleting a video, its set or its workout in Prym deletes Prym's copy; a video you chose from your gallery stays in your gallery.
+
+## Progress photos
+
+With Prym Pro you can take progress photos (front, side and back) or choose them from your gallery: Prym opens your phone's camera app to take one, or the system photo picker to choose one, and keeps its own copy on your phone. Prym never adds them to your gallery, and leaves out where and when they were taken. Photos are never uploaded; they leave your phone only when you share one, or export them to a folder you choose (Settings → Photos), and that app's or service's privacy policy then applies. Backups list which days have photos (their poses, sizes and notes), not the photos themselves. Deleting a photo in Prym deletes Prym's copy; a photo you chose from your gallery stays in your gallery.
 
 ## Exercise videos
 
@@ -64,11 +69,11 @@ After you have recorded a few workouts, Prym may ask Google Play to show its rat
 - **Run at startup:** so a scheduled rest-over notification or reminder survives the phone restarting.
 - **Internet:** to check for and download app updates, and, for Prym Pro, to check your subscription.
 - **Billing:** to buy Prym Pro through Google Play.
-- **Camera:** to record a video of a set with your phone's camera app, asked for only when you first choose Record video. Prym does not ask for the microphone: the camera app records the sound.
+- **Camera:** to record a video of a set or take a progress photo with your phone's camera app, asked for only when you first choose Record video or Take photo. Prym does not ask for the microphone: the camera app records the sound.
 
 ## Deleting your data
 
-You can delete any workout, routine, custom exercise or body weight entry in the app. Uninstalling Prym, or clearing its storage in Android's settings, deletes everything it stored on your phone. Backup files you exported are not affected; delete them where you saved them.
+You can delete any workout, routine, custom exercise, body weight entry, video or progress photo in the app. Uninstalling Prym, or clearing its storage in Android's settings, deletes everything it stored on your phone. Backup files you exported are not affected; delete them where you saved them.
 
 Prym Pro purchases: to have your purchase history removed from RevenueCat, email vulkanedev@gmail.com from any address and say which Google account you bought with. We delete it within 30 days. Google keeps its own record of the purchase under Google's privacy policy.
 
