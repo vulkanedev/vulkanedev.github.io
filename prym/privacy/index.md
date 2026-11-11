@@ -4,13 +4,13 @@ title: Prym privacy policy
 
 # Prym privacy policy
 
-Effective date: 10 November 2026
+Effective date: 11 November 2026
 
 Prym is a workout tracker made by Vulkane. This policy explains what happens to your information when you use the Prym app for Android.
 
 ## The short version
 
-Your workouts, routines, exercises and body weight stay on your phone. Prym has no accounts, no ads, no analytics and no tracking, and we never receive your training or body data.
+Your workouts, routines, exercises and body weight stay on your phone, and in your phone's own backup to your Google account if you have it turned on. Prym has no accounts, no ads, no analytics and no tracking, and we never receive your training or body data.
 
 ## What Prym stores
 
@@ -24,11 +24,13 @@ Prym saves what you enter in a database on your phone:
 - progress photos you take or choose, kept in Prym's own storage on your phone, and their notes;
 - your settings, such as units, rest timer and theme.
 
-This data never leaves your phone unless you export a backup yourself or search for videos of an exercise (see below). We cannot see it, and nobody else can through Prym.
+This data never leaves your phone unless you export a backup yourself, your phone backs it up to your Google account, or you search for videos of an exercise (see below). We cannot see it, and nobody else can through Prym.
 
 ## Backups
 
 Settings → Backup creates a file with your workouts, routines, custom exercises, exercise rest times, body weights, body measurements, the details of your set videos and progress photos (not the files) and, if you have made one, your plan and planned workouts, and saves it to a folder you choose on your phone or opens your phone's share sheet. Where the file goes (a folder on the phone, a cloud drive, an email, another app) is your choice, and that service's own privacy policy then applies. Importing reads a backup file you pick and adds its records to Prym on your phone. Export workouts (CSV) and Export body weight (CSV) work the same way, sharing a spreadsheet file of your workouts' sets or your body weights wherever you choose.
+
+Android's own backup: if backup is turned on in your phone's settings, Android copies Prym's records (your workouts and everything listed above except videos and progress photos) to your Google account, and puts them back when you set up a new phone from that backup. Prym lets Android make this copy only when it is end-to-end encrypted with your phone's screen lock. When you move to a new phone by cable or Wi-Fi, Android's transfer also brings your videos and progress photos. Google runs this backup under Google's privacy policy, and we never receive it. You can turn it off in your phone's settings.
 
 ## Videos of your sets
 
@@ -73,7 +75,7 @@ After you have recorded a few workouts, Prym may ask Google Play to show its rat
 
 ## Deleting your data
 
-You can delete any workout, routine, custom exercise, body weight entry, video or progress photo in the app. Uninstalling Prym, or clearing its storage in Android's settings, deletes everything it stored on your phone. Backup files you exported are not affected; delete them where you saved them.
+You can delete any workout, routine, custom exercise, body weight entry, video or progress photo in the app. Uninstalling Prym, or clearing its storage in Android's settings, deletes everything it stored on your phone. Backup files you exported are not affected; delete them where you saved them. Android's backup of Prym is in your Google account: delete it from your Google Drive's backups, or turn backup off in your phone's settings.
 
 Prym Pro purchases: to have your purchase history removed from RevenueCat, email vulkanedev@gmail.com from any address and say which Google account you bought with. We delete it within 30 days. Google keeps its own record of the purchase under Google's privacy policy.
 
